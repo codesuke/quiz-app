@@ -12,6 +12,7 @@ Hosted on **[Vercel](https://vercel.com/)**
 Backed by **[Supabase](https://supabase.io/)** for authentication and real-time data.
 
 > 🔗 [Try the App Live](https://quiz-app-pearl-delta.vercel.app/)
+> 🔗 [Checkout A Premade Quiz - XJM3AQ](https://quiz-app-pearl-delta.vercel.app/quiz/XJM3AQ)
 
 ---
 
