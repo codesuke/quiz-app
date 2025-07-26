@@ -1,4 +1,4 @@
-# ✧˚ ⋆｡˚QuizMaster
+# QuizMaster
 
   
 
@@ -71,6 +71,8 @@ Each quiz generates a unique code, perfect for sharing with friends or students.
 
 ## ✦ Built With
 
+  
+
 ⟡ **_[Next.js](https://nextjs.org/)_** – For fast, server-rendered React applications
 ⟡ **_[Supabase](https://supabase.com/)_** – Real-time database and authentication
 ⟡ **_[Vercel](https://vercel.com/)_** – Streamlined CI/CD and deployment
@@ -131,10 +133,11 @@ Have a suggestion? Found a bug?
 
 ---
 
+
 ## ✦ License
 
   
 
 MIT License — you're free to use, remix, and build on top of QuizMaster for your own projects.
 
-  
+------------------------------------------------------ˋˏ✄┈┈┈┈
